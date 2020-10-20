@@ -81,7 +81,7 @@ tracker = 0
 
 while tracker !=1:
 
-print("Q"+str(counter)+") "+ "What is the electrical configuration of potassium")
+print("Q"+str(counter)+") "+ "What is the electronic configuration of potassium")
 print(" a) 2,1")
 print(" b) 2,8,8,1")
 print(" c) 2,8,8,2")
